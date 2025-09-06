@@ -1,4 +1,3 @@
-"use client";
 import { role } from "@/lib/data";
 import Image from "next/image";
 import Link from "next/link";
